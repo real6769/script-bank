@@ -4,6 +4,11 @@ If you're selfish and have too many scripts and don't want anyone to know about 
 
 ---
 
+### 🌐 Access the Website:
+👉 **[Click Here to Open CyberVault](https://script-vault.netlify.app/)** 👈
+
+---
+
 ### 🔍 Are you tired of:
 *   💸 Paid executors like **Wave** or annoying daily keys like **Drift**?
 *   🌐 Constantly turning your browser on and off to find scripts because they don't integrate with the **Scriptblox API**?
@@ -12,7 +17,7 @@ If you're selfish and have too many scripts and don't want anyone to know about 
 *   ⚠️ Constantly falling for fake executor websites and catching viruses?
 
 ### 🛡️ The Solution is Here!
-No more worries! I've integrated the **official link of Xeno** — a powerful, all-in-one, and lightweight executor built for peak performance in my website or my git      https://github.com/real6769/script-bank/tree/main
+No more worries! I've integrated the **official link of Xeno** — a powerful, all-in-one, and lightweight executor built for peak performance in my website or my git   **[my GitHub repository](https://github.com/real6769/script-bank/tree/main)**!
 
 ---
 
