@@ -1,5 +1,19 @@
-If you're selfish and have too many scripts and don't want anyone to know about them and want to hide them, no problem, my website will do it for you. And if you're tired of paid executors like Wave or daily keys like Drift, or tired of constantly turning your browser on and off to find scripts because they don't integrate with the Scriptblox API, or if injecting scripts slows down your computer, or if your executor is too difficult to use, or if you're always getting fake executor websites and viruses, no problem, I've integrated the official link of Xeno, a powerful and all-powerful executor. Thank you for downloading files or using my website.
+# 🛸 CyberVault - The Ultimate Personal Script Safe
 
+If you're selfish and have too many scripts and don't want anyone to know about them and want to hide them, no problem — **my website will do it for you.** 😉
 
+---
 
-Nếu bạn ích kỷ và có quá nhiều script mà không muốn ai biết và muốn giấu chúng đi, không vấn đề gì, trang web của tôi sẽ làm điều đó cho bạn. Và nếu bạn mệt mỏi với các trình thực thi trả phí như Wave hoặc các key hàng ngày như Drift, hoặc mệt mỏi vì liên tục bật tắt trình duyệt để tìm script vì chúng không tích hợp với API của Scriptblox, hoặc nếu việc chèn script làm chậm máy tính của bạn, hoặc nếu trình thực thi của bạn quá khó sử dụng, hoặc nếu bạn luôn gặp phải các trang web trình thực thi giả mạo và virus, không vấn đề gì, tôi đã tích hợp liên kết chính thức của Xeno, một trình thực thi mạnh mẽ và toàn năng. Cảm ơn bạn đã tải xuống tệp hoặc sử dụng trang web của tôi.
+### 🔍 Are you tired of:
+*   💸 Paid executors like **Wave** or annoying daily keys like **Drift**?
+*   🌐 Constantly turning your browser on and off to find scripts because they don't integrate with the **Scriptblox API**?
+*   🐌 Script injection that slows down your computer?
+*   ⚙️ Executors that are just too difficult to use?
+*   ⚠️ Constantly falling for fake executor websites and catching viruses?
+
+### 🛡️ The Solution is Here!
+No more worries! I've integrated the **official link of Xeno** — a powerful, all-in-one, and lightweight executor built for peak performance.
+
+---
+
+💖 *Thank you so much for downloading the files or using my website! Enjoy your scripting journey!*
